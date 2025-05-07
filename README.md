@@ -28,5 +28,6 @@ The structure of this repository is:
 ├── config/                    # configuration file (key, path)
 │   └── config.yaml
 │
-├── README.md                 
-└── requirements.txt           
+├── README.md
+└── requirements.txt
+
