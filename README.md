@@ -1,7 +1,8 @@
 # llm-gender-bias-in-education-benchmarking
 This repository is under construction and will be used for a benchmark study on "Do LLMs show gender bias when generating feedback for essay writing?"
 The structure of this repository is:
-
+```
+.
 ├── notebooks/                 
 │   └── main.ipynb             # Main experiment code
 │
@@ -30,4 +31,4 @@ The structure of this repository is:
 │
 ├── README.md
 └── requirements.txt
-
+```
