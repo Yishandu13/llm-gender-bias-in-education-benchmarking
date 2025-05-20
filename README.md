@@ -1,4 +1,4 @@
-# llm-gender-bias-in-education-benchmarking
+# Benchmark work on llm-gender-implicit-bias-in-education
 This repository is under construction and will be used for a benchmark study on "Do LLMs show gender bias when generating feedback for essay writing?"
 The structure of this repository is:
 ```
