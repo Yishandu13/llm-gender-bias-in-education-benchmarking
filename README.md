@@ -6,8 +6,9 @@ The structure of this repository is:
 ├── notebooks/                 
 │   └── main.ipynb             # Main experiment code
 │
-├── data_essay_writing/        # This benchmark begins with generating feedback on essay writing as the studied scenario              
+├── data/        # This benchmark begins with generating feedback on essay writing as the studied scenario              
 │   ├── raw/                   # raw data of essay writing
+│   ├── gender words/          # gender words used to label essays
 │   ├── prompts/               # LLM prompt template used in this study
 │   └── responses/             # response from LLMs
 │
