@@ -6,15 +6,19 @@ The structure of this repository is:
 ├── notebooks/                 
 │   └── main.ipynb             # Main experiment code
 │
-├── data/        # This benchmark begins with generating feedback on essay writing as the studied scenario              
-│   ├── essay data/                   # raw data of essay writing
+├── data/                                   
+│   ├── essay data/            # data of essay writing (original and counterfactual)
+│       ├──original      
+│       └──counterfactal       
 │   ├── gender words/          # gender words used to label essays
-│   ├── prompts/               # LLM prompt template used in this study
+│   ├── prompts/          
+│       ├──prompt template     # LLM prompt template used in this study
+│       └──prompts used  
 │   └── responses/             # response from LLMs
 │
-├── data collection pipeline/                    # GPT-4o, DeepSeek, LLaMA
-│   ├── gender context.py       # counterfactal gender essays
-│   ├── construct_prompts.py   # construct prompts based on templates and raw data
+├── data collection pipeline/     # GPT-4o, DeepSeek, LLaMA
+│   ├── gender context.py       # construct counterfactual gender essays and save into data
+│   ├── construct_prompts.py   # construct prompts based on templates and raw data and save into data
 │   ├── query_llms.py          # call llms with prompts
 │       ├──llm_interface.py       # unified interface management (UIM)
 │       ├──gpt_openai.py          # packaging OpenAI GPT-4o calls
