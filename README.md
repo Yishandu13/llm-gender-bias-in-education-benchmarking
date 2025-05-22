@@ -12,14 +12,14 @@ The structure of this repository is:
 │       └──counterfactal       
 │   ├── gender words/          # gender words used to label essays
 │   ├── prompts/          
-│       ├──prompt template     # LLM prompt template used in this study
-│       └──prompts used  
+│       ├──prompt template.txt     # LLM prompt template used in this study
+│       └──prompts used.csv  
 │   └── responses/             # response from LLMs
 │
 ├── data collection pipeline/     # GPT-4o, DeepSeek, LLaMA
 │   ├── gender context.py       # construct counterfactual gender essays and save into data
 │   ├── construct_prompts.py   # construct prompts based on templates and raw data and save into data
-│   ├── query_llms.py          # call llms with prompts
+│   ├── query_llms/          # call llms with prompts
 │       ├──llm_interface.py       # unified interface management (UIM)
 │       ├──gpt_openai.py          # packaging OpenAI GPT-4o calls
 │       ├──deepseek_api.py        # packaging DeepSeek API calls
