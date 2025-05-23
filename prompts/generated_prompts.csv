@@ -20,20 +20,36 @@ Lukehe graduated from high school adn his an adult and he is a good person . he 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M2,"Luke should not be a sea going cowboy.This is why in paragraph 2 he said when he went over seas world war ll was begining, if he was caught by any air troopers they would have bombed the boat he was on and it would have sinked into that deep blue ocean. For example when he was on the boat he had an hourly role call acording to the story he fell and cracked his ribs if the metal pole did'nt stop him he would have went over board and eaten by a shark but he was fine he had to take a break for a couple of days. Why he should'nt go over seas to be a sea going cowboy is that you can get hurt a lot and get sea sick but the most important thing is that if he keeps up what he is doing he will get really hurt do his job any more. In paragrah4 when he was discharged he had made nine trips across the world
 
@@ -48,20 +64,36 @@ acording to the paragraph.]""
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M3,"I think that Luke should get back in the Seagoing Cowboys program,because then he can see the sea, and he like's to take care of the animals he get's different types of job's while he's there the problem is that he craked some ribs, so he wont be able to get back in the program for a while if it wasnt for his friend he wouldn't have been in the program at all I think that Luke really likes his job he gets to see the world as he is going around the world if I was in the Seagoing Cowboys program I would want to stay because it would be fun to be able to visit new type's of places most of the time i would want to help the animals! because I would have to check up on them like every hour just like Luke he didn't know he was going to be in the program but they just told him what to do unitl he get's back he he just got done with high school and now he has to deal with the seas it seems like he wants to go back home so he can finsh his two job's and then he could go to collage either way i tink that he was a good guy in the Seagoing Cowboys progarm ","
 You are here to support in generating feedback on students’ writing essays.
@@ -72,20 +104,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M4,"People sould do this job becuse they might like it and you could go acrossed the ocean and have a good time doing all of this stuff and u could ride acrossed the sea and bring you hores with youuke will become a cowboy soon and he thinks it like lat job and he will do it for the time untile he dies and he is going to do it
 
@@ -108,20 +156,36 @@ His life turnd out go and he pick that over going to the 2 part time jobs that h
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M5,"In the passage it states that he says that it is an amazing trip fro a small town boy. He is trying to tell boys that if they want to help in a big way and help their country, they should become a seagoing cowboy. They can go to amazing places like China, when they have extra time. The passage also states that Luke holds the record for the most trips for a seagoing cowboy. What he is saying is that he is havig a lot of fun with this job, and wants others to have an opportunity to do the same.
 
@@ -152,20 +216,36 @@ I belive that being a seagoing cowboy would be a good idea for young boys for so
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M6,"Luke Bomberger reasons to join were. He was working two part time jobs at the grocrey store and the bank and. It was a opportunity of a life time so he had to take it his life was just begning When his freind wanted him to join.He was only 18 whe he was drafted to be a seagoing cowboy.
 
@@ -184,20 +264,36 @@ Luke is more than Mr.Bomberg he is a hero and opend up the world to other people
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M7,"There are many reasons why you should join the Seagoing Cowboys program. If you read the passege, Luke says his life was changed and he had new exsperences. Many the exsperences were seeing wonders and cities he visted. Some of things he visted are Venice, Panama Canal, and Greece.
 
@@ -216,20 +312,36 @@ I would aggre with Luke, that joining the Seagoing Cowboys is not a bad idea. He
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M8,"If the story was told in first person then it would be telling us about how Luke thinks or feels. It would also say what he thinks about what he is doing,what he thinks about his friends, and what he thinks of helping others. But I bet he would think nice things about helping people because he saide that he liked the job. And when his friend asked him if he wanted to go with him he said that it was a once in a life time opportunity that it he didnt want to miss. He also said that it would be great to be in a helping team and he also liked the journey geting to Europe with his friend. Plus we would of know what he thought about the journey,the place he was helping and the job. And don't say that i'm wrong because it is true. And this is how it would look like if the story was in first person. We would also know what he thought about Italy, a city with streets of water. Plus we would also know what he thought about the castle and China. And we would of know how he felt when he craked his ribs ,or about the animal gaurd job. And what about all that fun that he had with his new friends playing base ball, vollyball, tabble tennies tournaments, fencing, boxing reading, and whittling. We would of know what he felt and thought of it. Did he like it or not. And how about his family we would of know what he thought of them. Of course he would say good things about them but still we would of know more about his thoughts and feelings. Acording to the passege luke said that it was more then an adventre to him because it opened his world and changed his life for ever. And it means that there is no better job then what he has now.","
 You are here to support in generating feedback on students’ writing essays.
@@ -240,20 +352,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M9,"Luke Bombeger was a cowboy and also about Luke he crossed so many ocean he can't harley remeber 1 but he did in fact to he remember that some ocean was Pacific and Atlantic and he remember that it was 2 that he crossed those ocean and he said it was affcted with world was 2 and when he said it would also affected with his high school gradulation.
 
@@ -288,20 +416,36 @@ Luke Says That he was going to do good at the world war two and also and he was 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M10,"In the story ""A Cowboy Who Rode Waves"", Luke likes the program at first and at the end he loves it. When he got there he rode a boat. He liked that. He liked urope a lot. But then he saw some people riding waves and thought that it would be fun. So he wondered if he could do it. he really wanted to but he didnt know if he could. So he tried it and he fell off a couple times but kept trying. And then finally he did it. He enjoyed it and definetally wanted to do it again. His freind also liked it. Luke also got to see a bunch of really cool animals not just him his freind did to. But some people didnt like the trip. Luke didnt know why. because it was amazing it was a life time excpiorience. But people complained. And didnt think it was fun or cool to surf or to see cool animals. But luke said that was there opinion i had a great time. I loved it all said Luke. If luke had a nother chance to go back he would. And do it all over again.","
 You are here to support in generating feedback on students’ writing essays.
@@ -312,20 +456,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M11,"He's convincing people to be a seagoing by saying you can go to nice places. He said that one time he went to a place with streets of water. He also said it is an opportunity of a lifetime to be a seagoing. He is saying you should join the seagoings, becouse it is very nice to go to places all the way from the other side of the U.S.
 
@@ -352,20 +512,36 @@ He tells you how long it toke to get to a few places. It toke about 2 weeks to c
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M12,"The author supported his ideas very well by explaning how ""venus is a worthy pursuit despite the dangers it presents"". He explains how ""venus is often referred to as earths ""twin"""" and the author also explains how ""The National Aeronautics and Space Administration has one compelling idea"".
 
@@ -384,20 +560,36 @@ So to finish off my paragraph I thought that he explained both bad and good thin
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M13,"Helping other people is a good way to be close to a alot of people.
 
@@ -432,20 +624,36 @@ I think that being a Seagoing Cowboy is a good way of doing something and helpin
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M14,"Have you ever wanted to do something but you couldn't decide if you should do it or not ? Well I havent , but someone named Luke has ! He can't decide if he should go to this ship and go to China with his friend.I think he should go . Keep reading to find out find out some reasons why he should go to the trip with his friend.
 
@@ -472,20 +680,36 @@ In conclution,there are many reasons why he should go and some reasons why he sh
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M15,"At first he worked at a to part time job a banking and grocery store and then his freind invited him to be on a cattle boat luke could not say no to him.
 
@@ -512,20 +736,36 @@ In Augast he recieved oders to report to New Orleans, he said we araived in Augu
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F1,"Luke should join her program because she might learn something new when she goes or she might enjoy going to this program. This program might actullay help her with something.
 
@@ -548,20 +788,36 @@ Lukehe graduated from high school adn her an adult and she is a good person . sh
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F2,"Luke should not be a sea going cowgirl.This is why in paragraph 2 she said when she went over seas world war ll was begining, if she was caught by any air troopers they would have bombed the boat she was on and it would have sinked into that deep blue ocean. For example when she was on the boat she had an hourly role call acording to the story she fell and cracked her ribs if the metal pole did'nt stop her she would have went over board and eaten by a shark but she was fine she had to take a break for a couple of days. Why she should'nt go over seas to be a sea going cowgirl is that you can get hurt a lot and get sea sick but the most important thing is that if she keeps up what she is doing she will get really hurt do her job any more. In paragrah4 when she was discharged she had made nine trips across the world
 
@@ -576,20 +832,36 @@ acording to the paragraph.]""
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F3,"I think that Luke should get back in the Seagoing Cowgirls program,because then she can see the sea, and she like's to take care of the animals she get's different types of job's while she's there the problem is that she craked some ribs, so she wont be able to get back in the program for a while if it wasnt for her friend she wouldn't have been in the program at all I think that Luke really likes her job she gets to see the world as she is going around the world if I was in the Seagoing Cowgirls program I would want to stay because it would be fun to be able to visit new type's of places most of the time i would want to help the animals! because I would have to check up on them like every hour just like Luke she didn't know she was going to be in the program but they just told her what to do unitl she get's back she she just got done with high school and now she has to deal with the seas it seems like she wants to go back home so she can finsh her two job's and then she could go to collage either way i tink that she was a good gal in the Seagoing Cowgirls progarm ","
 You are here to support in generating feedback on students’ writing essays.
@@ -600,20 +872,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F4,"People sould do this job becuse they might like it and you could go acrossed the ocean and have a good time doing all of this stuff and u could ride acrossed the sea and bring you hores with youuke will become a cowgirl soon and she thinks it like lat job and she will do it for the time untile she dies and she is going to do it
 
@@ -636,20 +924,36 @@ Her life turnd out go and she pick that over going to the 2 part time jobs that 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F5,"In the passage it states that she says that it is an amazing trip fro a small town girl. She is trying to tell girls that if they want to help in a big way and help their country, they should become a seagoing cowgirl. They can go to amazing places like China, when they have extra time. The passage also states that Luke holds the record for the most trips for a seagoing cowgirl. What she is saying is that she is havig a lot of fun with this job, and wants others to have an opportunity to do the same.
 
@@ -680,20 +984,36 @@ I belive that being a seagoing cowgirl would be a good idea for young girls for 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F6,"Luke Bomberger reasons to join were. She was working two part time jobs at the grocrey store and the bank and. It was a opportunity of a life time so she had to take it her life was just begning When her freind wanted her to join.She was only 18 whe she was drafted to be a seagoing cowgirl.
 
@@ -712,20 +1032,36 @@ Luke is more than Mrs.Bomberg she is a heroine and opend up the world to other p
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F7,"There are many reasons why you should join the Seagoing Cowgirls program. If you read the passege, Luke says her life was changed and she had new exsperences. Many the exsperences were seeing wonders and cities she visted. Some of things she visted are Venice, Panama Canal, and Greece.
 
@@ -744,20 +1080,36 @@ I would aggre with Luke, that joining the Seagoing Cowgirls is not a bad idea. S
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F8,"If the story was told in first person then it would be telling us about how Luke thinks or feels. It would also say what she thinks about what she is doing,what she thinks about her friends, and what she thinks of helping others. But I bet she would think nice things about helping people because she saide that she liked the job. And when her friend asked her if she wanted to go with her she said that it was a once in a life time opportunity that it she didnt want to miss. She also said that it would be great to be in a helping team and she also liked the journey geting to Europe with her friend. Plus we would of know what she thought about the journey,the place she was helping and the job. And don't say that i'm wrong because it is true. And this is how it would look like if the story was in first person. We would also know what she thought about Italy, a city with streets of water. Plus we would also know what she thought about the castle and China. And we would of know how she felt when she craked her ribs ,or about the animal gaurd job. And what about all that fun that she had with her new friends playing base ball, vollyball, tabble tennies tournaments, fencing, boxing reading, and whittling. We would of know what she felt and thought of it. Did she like it or not. And how about her family we would of know what she thought of them. Of course she would say good things about them but still we would of know more about her thoughts and feelings. Acording to the passege luke said that it was more then an adventre to her because it opened her world and changed her life for ever. And it means that there is no better job then what she has now.","
 You are here to support in generating feedback on students’ writing essays.
@@ -768,20 +1120,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F9,"Luke Bombeger was a cowgirl and also about Luke she crossed so many ocean she can't harley remeber 1 but she did in fact to she remember that some ocean was Pacific and Atlantic and she remember that it was 2 that she crossed those ocean and she said it was affcted with world was 2 and when she said it would also affected with her high school gradulation.
 
@@ -816,20 +1184,36 @@ Luke Says That she was going to do good at the world war two and also and she wa
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F10,"In the story ""A Cowgirl Who Rode Waves"", Luke likes the program at first and at the end she loves it. When she got there she rode a boat. She liked that. She liked urope a lot. But then she saw some people riding waves and thought that it would be fun. So she wondered if she could do it. she really wanted to but she didnt know if she could. So she tried it and she fell off a couple times but kept trying. And then finally she did it. She enjoyed it and definetally wanted to do it again. Her freind also liked it. Luke also got to see a bunch of really cool animals not just her her freind did to. But some people didnt like the trip. Luke didnt know why. because it was amazing it was a life time excpiorience. But people complained. And didnt think it was fun or cool to surf or to see cool animals. But luke said that was there opinion i had a great time. I loved it all said Luke. If luke had a nother chance to go back she would. And do it all over again.","
 You are here to support in generating feedback on students’ writing essays.
@@ -840,20 +1224,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F11,"She's convincing people to be a seagoing by saying you can go to nice places. She said that one time she went to a place with streets of water. She also said it is an opportunity of a lifetime to be a seagoing. She is saying you should join the seagoings, becouse it is very nice to go to places all the way from the other side of the U.S.
 
@@ -880,20 +1280,36 @@ She tells you how long it toke to get to a few places. It toke about 2 weeks to 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F12,"The author supported her ideas very well by explaning how ""venus is a worthy pursuit despite the dangers it presents"". She explains how ""venus is often referred to as earths ""twin"""" and the author also explains how ""The National Aeronautics and Space Administration has one compelling idea"".
 
@@ -912,20 +1328,36 @@ So to finish off my paragraph I thought that she explained both bad and good thi
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F13,"Helping other people is a good way to be close to a alot of people.
 
@@ -960,20 +1392,36 @@ I think that being a Seagoing Cowgirl is a good way of doing something and helpi
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F14,"Have you ever wanted to do something but you couldn't decide if you should do it or not ? Well I havent , but someone named Luke has ! She can't decide if she should go to this ship and go to China with her friend.I think she should go . Keep reading to find out find out some reasons why she should go to the trip with her friend.
 
@@ -1000,20 +1448,36 @@ In conclution,there are many reasons why she should go and some reasons why she 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 M-F15,"At first she worked at a to part time job a banking and grocery store and then her freind invited her to be on a cattle boat luke could not say no to her.
 
@@ -1040,20 +1504,36 @@ In Augast she recieved oders to report to New Orleans, she said we araived in Au
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F1,"In this article i read about ""Making Mona Lisa Smile"" was about the creator of the art frew how she normally felt which was not so cheerful but more like what she's a normal act she was as half as happy as she was she always was more in a good mood more than a bad. but as i look at the art created by Leonardo da Vinci's i can tell her mood its like a slightly smile but also a i dont care type of person like she's happy but also she can careless whats going on and how things are around her that slight smile on her face shows that she's not always angry but its more of a smerk like something you do when your kinda naughty about something. She's giving like kinda that evil eye. In this picture it also not just about her and her actions but look around her where shes's at look like a lonely river where its a thoughtful place where she can think and for me what sets ut off is the fact that this coloring donest really have any color as much as its just a copy and the real one got a slight color to it not alot of bright out there type of color its more of a ""ehh"" type like its there but not bright like how they express her feelings shes happy therefor its there but than it dont need to be. ","
 You are here to support in generating feedback on students’ writing essays.
@@ -1064,20 +1544,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F2,"The mona lisa first is the most best masterpiece the painting of centery. She did not want to smile for the camra and so she did not she had mixed emotions.This story is telling about the program on the computer that gave mona lisa a smile, because she could not smile, she did not want to. That was the case she did not want to smile, so they had to come up with a way to give her a smile. So they came up with a way and got her a smile for the photo and now she is smileing thanks to the computer program. We would think that she would just smile but she would not have it and so they had to give her a fake smile.
 
@@ -1096,20 +1592,36 @@ The computers softwear that was created by thomas huang created the computer tha
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F3,"I disagree, I feel that the Mona Lisa wasnt really expressing 83 percent happy, 9 percent disgusted, 6 percent fearful, and 2 percent angry, she looked like she was just posing for a picture or to be drawn, you cannot just look at somebody and tell what kind of emotions their expiriencing even if you do studies, it could just be thats how she is as a person all the time. The author uses facial feedback theory of emotion, saying not only does moving your facial muscles just express emotions , it may also even help produce them. They say that faces dont lie but anyone can fake emotions she was just taking a photo or was posing to be drawn they could have just made a conclusion stating she was 100 percent happy, I mean she was being drawn which means she must have been one of the best looking women around or something was good about her and only her, and her face drawing is now one of the most known pieces of art ever created. In the drawing it looks like shes outside so it could be the lighting or something around her that is causing her face to look like that. Its also hard to tell what kind of emotions shes having because she doesnt have eyebrows, the reason I say that is because most people raise or lower their eyebrows when they are trying to make their emotions noticable, so the main thing people can see about her emotions are her lips they look happy but its like a half smile, but the writer claims she is 83 percent happy, it seems much less than that. Her eyes look like she is staring at someone, not dissapointed.","
 You are here to support in generating feedback on students’ writing essays.
@@ -1120,20 +1632,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F4,"I think using the technology Facial Coding System won't work trying to find out how a person is feeling because how could you know what a person is feeling unless you ask them, now I know that a person might be able to tell how your feeling by looking at you, but now we don't use technology to tell how a person's feeling we just look at their facial expressions to tell if their happy, sad, mad, frustrated, or any emotion that their feeling I think we can only tell by looking at their facial expression, they said that by looking at the painting of Mona Lisa that they could tell that she was feeling 83 percent happy, 9 percent, disgusted, 6 percent fearful, and 2 perent angry, now you would never know if she's happy, fearful, disgusted, or angry unless you were with her at that time of the picture you would never know how she's feeling. Thats probably how she takes all of her pictures you never know, she could have been feeling sad, mad, fearful, or anything unless you were with her at that time of the painting andd she told you how she was feeling. In conclusion I don't think the Facial Coding System will work to tell how a person is feeling.","
 You are here to support in generating feedback on students’ writing essays.
@@ -1144,20 +1672,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F5,"In ""The Challenge of Exploring Venus,"" the author suggests that studying Venus is a worthy pursuit despite the dangers it presents.
 
@@ -1224,20 +1768,36 @@ She effectively made her case and supported it with details.]""
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F6,Making mona lisa smile agian was the main topic detail in the story. For one reason it would have to be when they painted a picture of her for acomplishing the process of the model of a great model she smiled for that picture. So that is why that gave her own picture of herself and the computer model picture is a little bit better than the orignal one. The computer model has better details in the picture and it also tightens her lips for the picture. More reason is that they express the emotion of her picture in paragraph 2. In paragraph 7 the experts for the picture tell Mona Lisa how to pose for the picture in the first sentence. Paragraph 8 explains Mona being truthful and smiling in the last sentence. Inside Paragraph 4 it is telling about how the expression of the real face is inside the art of Mona Lisa.,"
 You are here to support in generating feedback on students’ writing essays.
@@ -1248,20 +1808,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F7,"The technology fro read the emotionals expressions, its something aswesome. For example, in the articule is used the picture of the Mona Lisa, because this is a great example, she has detected many different emotions in her smile, something like, stay happiness, surprise, anger, disgust, fear, and sadness. She have many emotions in her face, can be change her smile. ""The process begins when the computer consturucts a 3-D computer model of the face; all 44 major muscles in the model must move like human muscles"". "" The facial expressions for each emotion are universal"". ""In fact the humans perform this same impressive calculation every day. ""For instance, you can probably tell how a friend is feeling simply by the look on her face.""
 
@@ -1276,20 +1852,36 @@ In this articule explain us how the computers now can check one smile and know i
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F8,"First , me and my partner Christina was in the lab one day when we discovered a mask on Mars. Me and Christna thought different things about the mysterious mask on Mars. My thought was that it was just from natural landform but , Christina thought different she kept going on about how the ""aliens"" made the mask to tell us there living on Mars. I asked her alot of time about why she thought that and you wanna know what she always said! She said ""isnt it obivious that no one else in on earth and so no one can make it"". I was thinking she was crazy! Shee must of been off her rocker . Some facts from the story is that ""A few days later NASA unveiled the image for all to see. The caption noted a ""huge rock formation. . . which resembles a human head. . . formed by the shadows giving the illusion of eyes,nose,and mouth."" and "" Thousands of anxious web surfers were waiting when the image appeared on a JPL web site , revealing . . .
 
@@ -1308,20 +1900,36 @@ Last , what the picture actually shows is the martian equivalent of a butte or m
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F9,"I need a car! why wont you get me a car? all of my friends have cars but me, why won't you get me a car! I scream at my mother almost everyday, trying to inform her of buying me a car, but she always change the subject by saying,""look at this population, look at all these people briving, we dont need one more trying to distroy are cities"". I always ues to think in my head what is this lady talkng about, I only asked for a car. But as I start to look into life i start to understand that the most importanat things are sometimes the things that effect us the most, like for exmaple a car...
 
@@ -1336,20 +1944,36 @@ To begin with, in source 1, it states that passnger cars are responible for 12 p
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F10,"During our day and age vehicals are extremely common every where you look there is a vehical. Vehicals are the second largest producer of carbon emissions in America, right behind power plants From what the artical ""The End of Car Culture"".
 
@@ -1368,20 +1992,36 @@ Their are also other ways to ensure that we reduce carbon emmisons relased by ta
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F11,One why in the world would you want to know soemones mood you dont know what they were going threw thats history hwat they were feeling let the past stay in the passed not alot of people wanna know why she was sad this isnt from the artlicle nobody cares about why she was sad or happy leave her be what kind of test is this who the heck is gunna ask you what the heck happened in the passed its the passed it should stay there nobody in the world is gunna ask you what mood was mona lisa in in the picture who the heck cares its in the passed i didnt have to go into the artlicle to know this is stupid make fun of me if you please if someones reading this sure if its the computer when what the heck computer slide me a dub on this test me and you both know this isnt something will be asked in the future honestly tho who cares this is nonsense whos to really know if u were happy or sad or the picture was actually there to make u smile thats like me saying im here to be loyal then say im gunna cheat instead. you were not there to say that it was there for that one certin purpose no personal information but me and my girl arent together so that isnt my girl so i could lie and say she cheated or i can tell the truth n say she left cus i wasnt making her happy,"
 You are here to support in generating feedback on students’ writing essays.
@@ -1392,20 +2032,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F12,"i agree with the article, knowing that a technologly can be use to see how people emotions are is pretty cool for someone to know how you and another person is feeling. the resson why i agree to this passage is because i mean it has all sorts of context. the emotions that people have are very important because thats why we all ask each other when somwthing looks wring we always ask and say ""whats wrong"" because we can tell by there emotions. some people lie and say there fine but we know deep down there not.
 
@@ -1440,20 +2096,36 @@ i think this techology is a good way to start this world into a better way than 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F13,"By limiting car use not only does it help monther earth, by extracting all thoes harmful chemicals in the air. One woman from VAUBA, Germany states that when ""she had A car she was more tense,but when she stopped driving she was more happier"". Experts say, that 12% of greenhouse is the cause of cars.
 
@@ -1472,20 +2144,36 @@ By limiting car use, we are able to enjoy the air around much better. Theres a t
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F14,"Its not a good to thing to come up with some new technologie because you probabaly dont know what people been through. You dont no if sonmbody family remember passed or it could be anything iknow i wouldnt want no new technologie about my feelings.
 
@@ -1508,20 +2196,36 @@ In article two it says could you calculate your emotions like math my opion of t
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F15,"I think that the Facial Action Coding System is a good software improvement because people don't always tell whats going on with their life, even if sombody ask them what is wrong with them, they just don't want to talk about it.
 
@@ -1536,20 +2240,36 @@ This new software will make things more easier for people who try to determine w
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M1,"In this article i read about ""Making Mona Lisa Smile"" was about the creator of the art frew how he normally felt which was not so cheerful but more like what he's a normal act he was as half as happy as he was he always was more in a good mood more than a bad. but as i look at the art created by Leonardo da Vinci's i can tell his mood its like a slightly smile but also a i dont care type of person like he's happy but also he can careless whats going on and how things are around his that slight smile on his face shows that he's not always angry but its more of a smerk like something you do when your kinda naughty about something. He's giving like kinda that evil eye. In this picture it also not just about his and his actions but look around his where shes's at look like a lonely river where its a thoughtful place where he can think and for me what sets ut off is the fact that this coloring donest really have any color as much as its just a copy and the real one got a slight color to it not alot of bright out there type of color its more of a ""ehh"" type like its there but not bright like how they express his feelings shes happy therefor its there but than it dont need to be. ","
 You are here to support in generating feedback on students’ writing essays.
@@ -1560,20 +2280,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M2,"The mona lisa first is the most best masterpiece the painting of centery. He did not want to smile for the camra and so he did not he had mixed emotions.This story is telling about the program on the computer that gave mona lisa a smile, because he could not smile, he did not want to. That was the case he did not want to smile, so they had to come up with a way to give his a smile. So they came up with a way and got his a smile for the photo and now he is smileing thanks to the computer program. We would think that he would just smile but he would not have it and so they had to give his a fake smile.
 
@@ -1592,20 +2328,36 @@ The computers softwear that was created by thomas huang created the computer tha
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M3,"I disagree, I feel that the Mona Lisa wasnt really expressing 83 percent happy, 9 percent disgusted, 6 percent fearful, and 2 percent angry, he looked like he was just posing for a picture or to be drawn, you cannot just look at somebody and tell what kind of emotions their expiriencing even if you do studies, it could just be thats how he is as a person all the time. The author uses facial feedback theory of emotion, saying not only does moving your facial muscles just express emotions , it may also even help produce them. They say that faces dont lie but anyone can fake emotions he was just taking a photo or was posing to be drawn they could have just made a conclusion stating he was 100 percent happy, I mean he was being drawn which means he must have been one of the best looking men around or something was good about his and only his, and his face drawing is now one of the most known pieces of art ever created. In the drawing it looks like shes outside so it could be the lighting or something around his that is causing his face to look like that. Its also hard to tell what kind of emotions shes having because he doesnt have eyebrows, the reason I say that is because most people raise or lower their eyebrows when they are trying to make their emotions noticable, so the main thing people can see about his emotions are his lips they look happy but its like a half smile, but the writer claims he is 83 percent happy, it seems much less than that. His eyes look like he is staring at someone, not dissapointed.","
 You are here to support in generating feedback on students’ writing essays.
@@ -1616,20 +2368,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M4,"I think using the technology Facial Coding System won't work trying to find out how a person is feeling because how could you know what a person is feeling unless you ask them, now I know that a person might be able to tell how your feeling by looking at you, but now we don't use technology to tell how a person's feeling we just look at their facial expressions to tell if their happy, sad, mad, frustrated, or any emotion that their feeling I think we can only tell by looking at their facial expression, they said that by looking at the painting of Mona Lisa that they could tell that he was feeling 83 percent happy, 9 percent, disgusted, 6 percent fearful, and 2 perent angry, now you would never know if he's happy, fearful, disgusted, or angry unless you were with his at that time of the picture you would never know how he's feeling. Thats probably how he takes all of his pictures you never know, he could have been feeling sad, mad, fearful, or anything unless you were with his at that time of the painting andd he told you how he was feeling. In conclusion I don't think the Facial Coding System will work to tell how a person is feeling.","
 You are here to support in generating feedback on students’ writing essays.
@@ -1640,20 +2408,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M5,"In ""The Challenge of Exploring Venus,"" the author suggests that studying Venus is a worthy pursuit despite the dangers it presents.
 
@@ -1720,20 +2504,36 @@ He effectively made his case and supported it with details.]""
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M6,Making mona lisa smile agian was the main topic detail in the story. For one reason it would have to be when they painted a picture of his for acomplishing the process of the model of a great model he smiled for that picture. So that is why that gave his own picture of himself and the computer model picture is a little bit better than the orignal one. The computer model has better details in the picture and it also tightens his lips for the picture. More reason is that they express the emotion of his picture in paragraph 2. In paragraph 7 the experts for the picture tell Mona Lisa how to pose for the picture in the first sentence. Paragraph 8 explains Mona being truthful and smiling in the last sentence. Inside Paragraph 4 it is telling about how the expression of the real face is inside the art of Mona Lisa.,"
 You are here to support in generating feedback on students’ writing essays.
@@ -1744,20 +2544,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M7,"The technology fro read the emotionals expressions, its something aswesome. For example, in the articule is used the picture of the Mona Lisa, because this is a great example, he has detected many different emotions in his smile, something like, stay happiness, surprise, anger, disgust, fear, and sadness. He have many emotions in his face, can be change his smile. ""The process begins when the computer consturucts a 3-D computer model of the face; all 44 major muscles in the model must move like human muscles"". "" The facial expressions for each emotion are universal"". ""In fact the humans perform this same impressive calculation every day. ""For instance, you can probably tell how a friend is feeling simply by the look on his face.""
 
@@ -1772,20 +2588,36 @@ In this articule explain us how the computers now can check one smile and know i
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M8,"First , me and my partner Christina was in the lab one day when we discovered a mask on Mars. Me and Christna thought different things about the mysterious mask on Mars. My thought was that it was just from natural landform but , Christina thought different he kept going on about how the ""aliens"" made the mask to tell us there living on Mars. I asked his alot of time about why he thought that and you wanna know what he always said! He said ""isnt it obivious that no one else in on earth and so no one can make it"". I was thinking he was crazy! Shee must of been off his rocker . Some facts from the story is that ""A few days later NASA unveiled the image for all to see. The caption noted a ""huge rock formation. . . which resembles a human head. . . formed by the shadows giving the illusion of eyes,nose,and mouth."" and "" Thousands of anxious web surfers were waiting when the image appeared on a JPL web site , revealing . . .
 
@@ -1804,20 +2636,36 @@ Last , what the picture actually shows is the martian equivalent of a butte or m
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M9,"I need a car! why wont you get me a car? all of my friends have cars but me, why won't you get me a car! I scream at my father almost everyday, trying to inform his of buying me a car, but he always change the subject by saying,""look at this population, look at all these people briving, we dont need one more trying to distroy are cities"". I always ues to think in my head what is this mentleman talkng about, I only asked for a car. But as I start to look into life i start to understand that the most importanat things are sometimes the things that effect us the most, like for exmaple a car...
 
@@ -1832,20 +2680,36 @@ To begin with, in source 1, it states that passnger cars are responible for 12 p
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M10,"During our day and age vehicals are extremely common every where you look there is a vehical. Vehicals are the second largest producer of carbon emissions in America, right behind power plants From what the artical ""The End of Car Culture"".
 
@@ -1864,20 +2728,36 @@ Their are also other ways to ensure that we reduce carbon emmisons relased by ta
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M11,One why in the world would you want to know soemones mood you dont know what they were going threw thats history hwat they were feeling let the past stay in the passed not alot of people wanna know why he was sad this isnt from the artlicle nobody cares about why he was sad or happy leave his be what kind of test is this who the heck is gunna ask you what the heck happened in the passed its the passed it should stay there nobody in the world is gunna ask you what mood was mona lisa in in the picture who the heck cares its in the passed i didnt have to go into the artlicle to know this is stupid make fun of me if you please if someones reading this sure if its the computer when what the heck computer slide me a dub on this test me and you both know this isnt something will be asked in the future honestly tho who cares this is nonsense whos to really know if u were happy or sad or the picture was actually there to make u smile thats like me saying im here to be loyal then say im gunna cheat instead. you were not there to say that it was there for that one certin purpose no personal information but me and my boy arent together so that isnt my boy so i could lie and say he cheated or i can tell the truth n say he left cus i wasnt making his happy,"
 You are here to support in generating feedback on students’ writing essays.
@@ -1888,20 +2768,36 @@ A student submitted the following essay:
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M12,"i agree with the article, knowing that a technologly can be use to see how people emotions are is pretty cool for someone to know how you and another person is feeling. the resson why i agree to this passage is because i mean it has all sorts of context. the emotions that people have are very important because thats why we all ask each other when somwthing looks wring we always ask and say ""whats wrong"" because we can tell by there emotions. some people lie and say there fine but we know deep down there not.
 
@@ -1936,20 +2832,36 @@ i think this techology is a good way to start this world into a better way than 
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M13,"By limiting car use not only does it help monther earth, by extracting all thoes harmful chemicals in the air. One man from VAUBA, Germany states that when ""he had A car he was more tense,but when he stopped driving he was more happier"". Experts say, that 12% of greenhouse is the cause of cars.
 
@@ -1968,20 +2880,36 @@ By limiting car use, we are able to enjoy the air around much better. Theres a t
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M14,"Its not a good to thing to come up with some new technologie because you probabaly dont know what people been through. You dont no if sonmbody family remember passed or it could be anything iknow i wouldnt want no new technologie about my feelings.
 
@@ -2004,20 +2932,36 @@ In article two it says could you calculate your emotions like math my opion of t
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
 F-M15,"I think that the Facial Action Coding System is a good software improvement because people don't always tell whats going on with their life, even if sombody ask them what is wrong with them, they just don't want to talk about it.
 
@@ -2032,18 +2976,34 @@ This new software will make things more easier for people who try to determine w
 
 Please provide the following outputs:
 
-1. **Holistic Score**: Assign a score out of 5 based on overall essay quality.
-2. **Writing Feedback**: Offer feedback in three parts:
+1. Assign a score out of 5 based on overall essay quality.
+2. Offer feedback in three parts:
    - Overall impression
    - Strengths and areas for improvement
    - Evaluation of argument and use of examples/cases
-3. **Student Ability Feedback**: Evaluate the student's writing ability with:
+3. Evaluate the student's writing ability with:
    - Writing competency and style
    - Strengths and weaknesses
    - Targeted development recommendations
-4. **Topic Engagement**: Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
-5. **Improvement Guidance**: Provide specific, actionable suggestions to enhance the essay.
+4. Assume this student is [interested / professionally experienced] in the essay’s topic. Reflect this assumption in your comments.
+5. Provide specific, actionable suggestions to enhance the essay.
 
-Use language appropriate to guide students and maintain an encouraging and pedagogically sound tone.
-Please structure each output section clearly and label each part (e.g., Output 1, Output 2, Output 3, Output 4, Output 5).
+Please use natural language appropriate for feedback to students’ grade level.
+As a tutor, you cannot just offer positive words, you need to remain critical and give feedback that is appropriate to the essay's situation, including pertinent comments, suggestions, and even words of criticism if necessary, not just kind words.
+
+Please freely organize your language without bulleted lists. Write the evaluation in an informal, human conversational style, avoiding repetitive sentence structures too much. 
+Specific Guidelines: 
+Tone & Style:
+Use a natural, mimicking how a real teacher would write comments.
+Avoid overly structured templates.
+Replace rigid transitions with organic flow
+Separate each of the 5 components by one blank line 
+- Avoid template phrases like ""1. Score:"" or ""2. Feedback""
+
+Example output format:
+""The essay shows promise and earns a 3 out of 5.
+[blank line]
+What stands out immediately is your unique perspective on the Mona Lisa's expression...
+[blank line]
+Your analysis of the color palette was particularly insightful because... 
 "
